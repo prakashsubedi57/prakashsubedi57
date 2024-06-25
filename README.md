@@ -8,7 +8,7 @@
 <a href="https://twitter.com/prakashsubedi57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakashsubedi57" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prakash-subedi-1242a9241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash-subedi-1242a9241" height="30" width="40" /></a>
 <a href="https://fb.com/lpsubedi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lpsubedi.7" height="30" width="40" /></a>
-<a href="https://instagram.com/anonymouscoder7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anonymouscoder7" height="30" width="40" /></a>
+<a href="https://instagram.com/prakashsubedi775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anonymouscoder7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
